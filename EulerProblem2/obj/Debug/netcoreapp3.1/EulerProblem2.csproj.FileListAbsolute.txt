@@ -1,0 +1,13 @@
+C:\Users\OrderlyUser\source\repos\EulerProblem2\EulerProblem2\bin\Debug\netcoreapp3.1\EulerProblem2.exe
+C:\Users\OrderlyUser\source\repos\EulerProblem2\EulerProblem2\bin\Debug\netcoreapp3.1\EulerProblem2.deps.json
+C:\Users\OrderlyUser\source\repos\EulerProblem2\EulerProblem2\bin\Debug\netcoreapp3.1\EulerProblem2.runtimeconfig.json
+C:\Users\OrderlyUser\source\repos\EulerProblem2\EulerProblem2\bin\Debug\netcoreapp3.1\EulerProblem2.runtimeconfig.dev.json
+C:\Users\OrderlyUser\source\repos\EulerProblem2\EulerProblem2\bin\Debug\netcoreapp3.1\EulerProblem2.dll
+C:\Users\OrderlyUser\source\repos\EulerProblem2\EulerProblem2\bin\Debug\netcoreapp3.1\EulerProblem2.pdb
+C:\Users\OrderlyUser\source\repos\EulerProblem2\EulerProblem2\obj\Debug\netcoreapp3.1\EulerProblem2.csprojAssemblyReference.cache
+C:\Users\OrderlyUser\source\repos\EulerProblem2\EulerProblem2\obj\Debug\netcoreapp3.1\EulerProblem2.AssemblyInfoInputs.cache
+C:\Users\OrderlyUser\source\repos\EulerProblem2\EulerProblem2\obj\Debug\netcoreapp3.1\EulerProblem2.AssemblyInfo.cs
+C:\Users\OrderlyUser\source\repos\EulerProblem2\EulerProblem2\obj\Debug\netcoreapp3.1\EulerProblem2.csproj.CoreCompileInputs.cache
+C:\Users\OrderlyUser\source\repos\EulerProblem2\EulerProblem2\obj\Debug\netcoreapp3.1\EulerProblem2.dll
+C:\Users\OrderlyUser\source\repos\EulerProblem2\EulerProblem2\obj\Debug\netcoreapp3.1\EulerProblem2.pdb
+C:\Users\OrderlyUser\source\repos\EulerProblem2\EulerProblem2\obj\Debug\netcoreapp3.1\EulerProblem2.genruntimeconfig.cache
